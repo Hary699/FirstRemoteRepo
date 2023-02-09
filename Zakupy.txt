@@ -1,5 +1,6 @@
 chleb
 mleko
 maslo
+ryż
 
 
