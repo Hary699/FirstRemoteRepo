@@ -1,1 +1,2 @@
-# ja jestem najlepszym commiterem
+# kto jest najlepszym commiterem
+user2
